@@ -9,7 +9,7 @@ import theme from "./theme";
 import { ThemeProvider } from "@mui/material";
 
 export const config = {
-  endpoint: `http://127.0.0.1:8082/api/v1`,
+  endpoint: `https://kaustubh-raghav-e-commerce-website.onrender.com/api/v1`,
 };
 
 function App() {
